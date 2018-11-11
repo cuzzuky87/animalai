@@ -1,0 +1,8 @@
+#画像関係
+backup/
+boar/
+crow/
+monkey/
+*.jpg
+.idea/
+.ipynb_checkpoints/
