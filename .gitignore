@@ -1,4 +1,4 @@
-#画像関係
+#画像関�?
 backup/
 boar/
 crow/
@@ -6,3 +6,4 @@ monkey/
 *.jpg
 .idea/
 .ipynb_checkpoints/
+.env
